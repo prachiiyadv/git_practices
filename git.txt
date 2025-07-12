@@ -1,0 +1,34 @@
+ 1 try. 
+   2 pyhton testing.py
+   3 git status
+   4 ls
+   5 git init
+   6 ls
+   7 dir
+   8 git add .
+   ls ls ls sl 
+   9 dir
+  10 git config --global user .name  prachiiyadv
+  11 cd ..
+  12 git config --global user .name  prachiiyadv
+  13 git config --global user.name "prachiiyadv"
+  14 git config --global user.email "prachiiy258@gmail...
+  15 git config --list
+  16 cd git_practoce
+  17 cd git_practice
+  18 gti add .
+  19 ls -h
+  20 git init
+  21 clear
+  22 git ls -h
+  23 git ls
+  24 ls -h
+  25 ls -a
+  26 ls -h
+  27 git add .
+  28 ls -h
+  29 git status
+  30 git status
+  31 git commoit -m "add files"
+  32 git commit -m "add files"
+  33 git status
