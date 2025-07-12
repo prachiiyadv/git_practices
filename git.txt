@@ -8,11 +8,8 @@
    8 git add .
    ls ls ls sl 
    9 dir
-  10 git config --global user .name  prachiiyadv
-  11 cd ..
-  12 git config --global user .name  prachiiyadv
-  13 git config --global user.name "prachiiyadv"
-  14 git config --global user.email "prachiiy258@gmail...
+  13 git config --global user.name ""
+  14 git config --global user.email 
   15 git config --list
   16 cd git_practoce
   17 cd git_practice
